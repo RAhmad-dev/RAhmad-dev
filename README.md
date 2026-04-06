@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart Learn**
 
-- 📫 How to reach me **ranaahmadishtiaq2006@gmail.com**
+- 📫 How to reach me **ahmadcode24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
