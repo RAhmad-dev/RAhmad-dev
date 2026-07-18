@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan
-🚀 Software Engineering student at NUML Islamabad
+🚀 Software Engineering student at NUML Islamabad <br>
 💻 Learning C++, python, java, app development, and AI/ML
 🎯 Goal: Become a strong software engineer and build impactful tech solutions
-📚 Always learning, always improving</h3>
+📚 Always learning, always improving </h3>
 
 - 🔭 I’m currently working on **Smart Learn**
 
